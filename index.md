@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "swc"  
+carpentry: "swc"
 venue: "University of Kent"       
 address: "Darwin Seminar Room 14 (Monday) Elliot Seminar Room 1 (Tuesday) University of Kent"
 country: "en"      
