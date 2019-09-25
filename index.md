@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"
-venue: "University of Kent"       
-address: "Darwin Seminar Room 14 (Monday) Elliot Seminar Room 1 (Tuesday) University of Kent"
-country: "en"      
-language: "en"    
-latlng: "51.294957,1.067407"       
-humandate: "September 30th - October 1st 2019"
-humantime: "9.00 am - 5.00 pm"    
-startdate: 2019-09-30      
-enddate: 2019-10-01        
-instructor: ["Gary Thompson"] 
-helper: ["Fabio Hedayioglu", "Tobias von der Haar", "Chieh Hsu"]
-email: ["g.s.thompson@kent.ac.uk"]
-collaborative_notes:   https://docs.google.com/document/d/1A5TrMKcpaupIN4z5As7E_k9OXyNs4zFqUOO_wYNjRxc/edit?usp=sharing          
+venue: "UCT Faculty of Health Sciences - Postgraduate Room 2"
+address: "Barnard Fuller Building, Anzio Road, Observatory, Cape Town"
+country: "za"
+language: "en"
+latlng: "-33.937550,18.519330"
+humandate: "October 30-31, 2018"
+humantime: "8:45 am - 4:30 pm"
+startdate: 2018-10-30
+enddate: 2018-10-31
+instructor: ["Samar Elsheikh", "Kenneth Babu", "Mamana Mbiyavanga", "Ziyaad Parker"]
+helper: ["Lyndon Zass", "Musalula Sinkala"]
+email: ["ziyaad.parker@uct.ac.za"]
+collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
