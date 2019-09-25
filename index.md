@@ -11,7 +11,7 @@ humantime: "9.00 am - 5.00 pm"
 startdate: 2019-09-30      
 enddate: 2019-10-01        
 instructor: ["Gary Thompson"] 
-helper: ["Fabio Hedayioglu", "Tobias von der Haar", "Chieh Hsu""]
+helper: ["Fabio Hedayioglu", "Tobias von der Haar", "Chieh Hsu"]
 email: ["g.s.thompson@kent.ac.uk"]
 collaborative_notes:   https://docs.google.com/document/d/1A5TrMKcpaupIN4z5As7E_k9OXyNs4zFqUOO_wYNjRxc/edit?usp=sharing          
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
